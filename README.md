@@ -4,7 +4,6 @@ It seems that SoundCloud has revoked my api client keys without any explanation 
 
 In an effort to learn es6 and redux, this is SoundRedux, a simple Soundcloud client
 
-See it in action at https://soundredux.io
 
 Uses normalizr
 
